@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Georgiana-Ghimes/Georgiana-Ghimes/main/neofetch.svg" width="100%">
+![Georgiana Ghimes](https://raw.githubusercontent.com/Georgiana-Ghimes/Georgiana-Ghimes/main/neofetch.svg)
