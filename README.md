@@ -1,3 +1,1 @@
-<picture>
-  <img alt="Georgiana Ghimes's GitHub Profile README" src="neofetch.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Georgiana-Ghimes/Georgiana-Ghimes/main/neofetch.svg" width="100%">
