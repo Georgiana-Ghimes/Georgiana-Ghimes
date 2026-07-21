@@ -64,5 +64,5 @@
 
   <text x="500" y="400" font-size="12.5" xml:space="preserve"><tspan fill="#6e7681">─ GitHub Stats ────────────────────────────────────</tspan></text>
 
-  <text x="500" y="420" font-size="12.5" xml:space="preserve"><tspan fill="#f0883e">Repos:</tspan><tspan fill="#6e7681"> ............... </tspan><tspan fill="#c9d1d9">7</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#f0883e">Commits:</tspan><tspan fill="#6e7681"> ........... </tspan><tspan fill="#c9d1d9">824</tspan></text>
+  <text x="500" y="420" font-size="12.5" xml:space="preserve"><tspan fill="#f0883e">Repos:</tspan><tspan fill="#6e7681"> ............... </tspan><tspan fill="#c9d1d9">7</tspan><tspan fill="#6e7681"> | </tspan><tspan fill="#f0883e">Commits:</tspan><tspan fill="#6e7681"> ........... </tspan><tspan fill="#c9d1d9">868</tspan></text>
 </svg>
